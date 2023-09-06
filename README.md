@@ -1,1 +1,5 @@
 # Digital_Dining
+this is a single page web application developed using reactjs library as a front end and spring boot (java ) as backend with mysql database.
+The project endeavors to streamline the restaurant's operations by digitizing its workflow. By facilitating online management, each member of the restaurant staff can fulfill their responsibilities more effectively. This initiative is tailored to those restaurants that are inclined to digitize their operations through a dedicated application, thereby enabling them to efficiently handle their day-to-day tasks and responsibilities.
+By embracing an online system for managing its operations, the restaurant stands to significantly reduce the manual effort involved. This transition would result in the availability of enhanced and optimized services for customers of the restaurant. 
+If the restaurant opts to utilize an online platform for managing its functionalities, it stands to benefit from a reduction in human labor while simultaneously providing a more efficient service to its Customers.
